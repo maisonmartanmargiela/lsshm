@@ -27,7 +27,7 @@ chmod +x ssh-connect.sh
 **user.json** — credentials:
 ```json
 {
-  "login": "admin",
+  "login": "yourlogin",
   "password": "yourpassword"
 }
 ```

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Device 1",
+        "address": "192.168.1.1"
+    },
+    {
+        "name": "Device 2",
+        "address": "192.168.1.2"
+    }
+
+]

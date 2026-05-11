@@ -19,8 +19,8 @@ chmod +x ssh-connect.sh
 **devices.json** — list of devices:
 ```json
 [
-  { "name": "SNR-S4550-MAIN", "address": "10.110.231.74" },
-  { "name": "SNR-S4550-BRANCH", "address": "10.110.231.75" }
+  { "name": "Device 1", "address": "192.168.1.1" },
+  { "name": "Device 2", "address": "192.168.1.2" }
 ]
 ```
 

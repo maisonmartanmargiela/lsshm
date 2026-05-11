@@ -36,7 +36,6 @@ chmod +x ssh-connect.sh
 
 | Key | Action |
 |-----|--------|
-| Type | Filter devices |
 | ↑ ↓ | Navigate |
 | Enter | Connect |
 | Esc | Exit |
